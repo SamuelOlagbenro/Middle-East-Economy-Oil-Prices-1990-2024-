@@ -1,0 +1,46 @@
+MIDDLE EAST ECONOMIC ANALYSIS 1990-2024 SUMMARY REPORT
+
+1. DATASET OVERVIEW
+Rows,455
+Columns,14
+Countries,13
+Year Range,1990-2024
+
+2. MISSING VALUES (%)
+Inflation_consumer_prices_annual_pct,13.19
+Exports_pct_GDP,5.71
+Imports_pct_GDP,5.71
+Unemployment_total_pct,3.08
+Life_expectancy_years,2.86
+FDI_net_inflows_pct_GDP,1.98
+GDP_growth_annual_pct,1.76
+GDP_current_USD,1.54
+GDP_per_capita_current_USD,1.54
+
+3. OIL PRICE CORRELATIONS
+Brent_Oil_Price_USD_per_barrel,1.000
+Year,0.713
+Decade,0.704
+Life_expectancy_years,0.396
+GDP_current_USD,0.360
+GDP_per_capita_current_USD,0.324
+Exports_pct_GDP,0.254
+FDI_net_inflows_pct_GDP,0.208
+Imports_pct_GDP,0.033
+Unemployment_total_pct,0.003
+GDP_growth_annual_pct,-0.081
+Inflation_consumer_prices_annual_pct,-0.127
+
+4. TOP 5 ECONOMIES BY GDP (2024, Billion USD)
+Saudi Arabia,1239.80
+United Arab Emirates,552.32
+Israel,540.38
+Iran,475.25
+Egypt,389.06
+
+5. TOP 5 BY GDP PER CAPITA (2024, USD)
+Qatar,76688.69
+Israel,54176.68
+United Arab Emirates,50273.51
+Saudi Arabia,35121.66
+Kuwait,32717.72
