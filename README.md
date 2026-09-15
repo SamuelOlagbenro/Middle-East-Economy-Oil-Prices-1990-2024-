@@ -9,8 +9,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Middle East Economy & Oil Prices Analysis (1990–2024)
-
 ## Overview
 
 This project analyzes Middle Eastern economic performance and oil-price dynamics from 1990 to 2024, combining exploratory data analysis, statistical analysis, visualization, and machine learning to uncover long-term trends and economic relationships.
