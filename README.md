@@ -1,5 +1,16 @@
 # Middle East Economy & Oil Prices Analysis (1990-2024)
-📊 Project Overview
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+📊 # Project Overview
+
 A comprehensive data science analysis exploring the relationship between crude oil prices and economic performance across 13 Middle Eastern countries over 34 years (1990-2024). This project examines how oil-dependent and diversified economies have responded to oil price fluctuations, providing actionable insights for economic planning and investment decisions.
 
 🎯 Objectives\n\n- Analyze the correlation between Brent crude oil prices and key economic indicators\n- Compare economic performance between oil-exporting and diversified economies\n- Identify historical trends, outliers, and patterns across the region\n- Quantify the impact of oil price shocks on GDP growth and inflation\n- Develop interactive visualization dashboards for economic monitoring
